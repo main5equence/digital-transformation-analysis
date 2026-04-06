@@ -8,7 +8,7 @@ The analysis focuses on transaction dynamics, user activity distribution, and sy
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-orange)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Context-purple)
 ![Research](https://img.shields.io/badge/Type-Research-lightgrey)
-![Status](https://img.shields.io/badge/status-active-success)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
